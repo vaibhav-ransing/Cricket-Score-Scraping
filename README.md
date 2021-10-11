@@ -1,2 +1,2 @@
 # Cricket-Score-Scraping
-cool project
+Web scraping using Node-JS and saving the scraped data into JSON ,excel-sheets and pdf format 
